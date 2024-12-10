@@ -50,7 +50,7 @@ dataowner: please input you share file number:  10
 ```html
 user: please input you wanted keyword field:  2
 ```
-* Input the search keyword (you can choose a keyword from the plaintext file 1004 (it can be the second field or not))
+* Input the search keyword (you can choose a keyword from the plaintext file 10010 (it can be the second field or not))
 
 ```html
 user: please input Corresponding keyword: jchyyxletc
@@ -62,12 +62,12 @@ user: if continue query, input 1, else input 0:  0
 ```
 
 ```html
-user: trap generte time 0.00713352 s
+user: trap generate time 0.00713352 s
 ```
 
 ```html
 server: file 2  match	-----> (search result)
-search generte time 0.060368 s
+search generate time 0.060368 s
 ```
 
 * At this time, choose to input 1 to verify, and 0 to exit the program.
