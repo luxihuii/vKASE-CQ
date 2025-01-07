@@ -1,4 +1,4 @@
-# VC-KASE
+# vKASE-CQ
 
 ## Introduction
 Secure and Verifiable Key-Aggregate Searchable Encryption for Conjunctive Queries
