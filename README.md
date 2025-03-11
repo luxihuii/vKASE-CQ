@@ -1,7 +1,7 @@
 # vKASE-CQ
 
 ## Introduction
-Secure and Verifiable Key-Aggregate Searchable Encryption for Conjunctive Queries
+Verifiable Conjunctive Field Keyword Searchable Encryption with Aggregate Keys for Data Sharing
 
 ## Build
 
